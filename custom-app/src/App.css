@@ -1,0 +1,16 @@
+.am-list-item .am-list-line .am-list-extra{
+  flex-basis: 100%;
+  text-align: left;
+}
+.am-card-header-extra{
+  color: #f76a24;
+  font-weight: bold;
+}
+@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 2dppx){ html:not([data-scale]) .am-list-body::before{
+  height: 0px;
+}
+}
+.am-card-footer{
+  padding-top: 6px;
+  padding-bottom: 10px;
+}
